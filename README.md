@@ -1,0 +1,2 @@
+# rice
+just other repository
